@@ -1,3 +1,5 @@
+print("Welcome to madlib")
+
 adjective = input("Enter adjective: ")
 name = input("Enter name of your friend: ")
 animal = input("Enter your favorite animal: ")
@@ -5,6 +7,7 @@ verb = input("Enter verb: ")
 verb_ending_with_ing = input("Enter a verb ending with -ing: ")
 plural_noun = input("Enter plural noun: ")
 noun = input("Enter noun: ")
+
 
 madlib = f"""One day, my best friend {name} and I decided 
            to visit the zoo. 
